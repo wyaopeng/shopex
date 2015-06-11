@@ -1,0 +1,2 @@
+# shopex
+shopex-lnmp
